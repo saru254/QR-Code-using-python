@@ -1,1 +1,2 @@
 import pyqrcode
+import png
